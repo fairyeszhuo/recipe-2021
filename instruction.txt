@@ -1,0 +1,3 @@
+git init #to start a git repository
+git status #check status
+emacs instruction.txt
