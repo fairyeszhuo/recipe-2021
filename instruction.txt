@@ -13,3 +13,4 @@ emacs instruction.txt
 enjoy!
 #end of the procedure
 # test git patch
+test git diff
