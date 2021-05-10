@@ -1,3 +1,10 @@
 git init #to start a git repository
 git status #check status
 emacs instruction.txt
+
+#here starts the exercise
+* chop avocados
+* chop onion
+* squeeze lime
+* add salt
+* and mix well
