@@ -3,9 +3,13 @@ git status #check status
 emacs instruction.txt
 
 #here starts the exercise
+* preparation
 * chop avocados
 * chop onion
+# add something
 * squeeze lime
 * add salt
 * and mix well
 enjoy!
+#end of the procedure
+# test git patch
